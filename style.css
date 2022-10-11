@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: wheat;
 }
 img {
     width: 100%;
@@ -15,4 +15,8 @@ img {
 }
 .artikel_2 img {
     width: 90%;
+}
+#atikel_2_tekst {
+    display: flex;
+    flex-direction: column;
 }
