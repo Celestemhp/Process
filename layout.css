@@ -14,6 +14,20 @@ img {
   width: 100%;
 }
 
+.logo {
+  height: 50px;
+  width: 50px;
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: center;
+  margin: 2%;
+}
+
+.logo img {
+  height: auto;
+  width: 100%;
+}
+
 /* Mobile first  */
 #container_1 {
   background-color: rgb(255, 0, 0);
