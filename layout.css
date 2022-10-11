@@ -30,7 +30,7 @@ img {
 
 /* Mobile first  */
 #container_1 {
-  background-color: rgb(255, 0, 0);
+  background-color: #1c3dcb;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -39,7 +39,7 @@ img {
 }
 
 #container_2 {
-  background-color: rgb(250, 238, 3);
+  background-color: #bf453a;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -48,7 +48,7 @@ img {
 }
 
 #container_3 {
-  background-color: rgb(3, 77, 250);
+  background-color: #00a79a;
   background-size: cover;
   width: 100%;
   height: auto;
