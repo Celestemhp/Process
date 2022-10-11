@@ -17,9 +17,9 @@ img {
 .logo {
   height: 50px;
   width: 50px;
-  grid-column: 2;
+  grid-column: 1;
   grid-row: 1;
-  justify-self: center;
+  justify-self: start;
   margin: 2%;
 }
 
@@ -29,6 +29,52 @@ img {
 }
 
 /* Mobile first  */
+
+/* LANDINGPAGE */
+#container {
+  background-color: #c9a7c4;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  display: grid;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.video_landingpage {
+  justify-self: center;
+  margin-bottom: 5%;
+}
+
+.img {
+  background: url(rovdrift_crop_katalog2.jpg);
+  background-size: cover;
+  height: 550px;
+}
+
+.logo_white {
+  background: url(Blaagaard\ Teater_Logo_White_CMYK@2x.png);
+  background-size: cover;
+  height: 107px;
+  width: auto;
+}
+
+/* nyhedsbrev */
+
+.instagram {
+}
+.facebook {
+}
+
+/* PORTFOLIO */
 #container_1 {
   background-color: #2249f0;
   background-size: cover;
@@ -75,6 +121,9 @@ img {
 }
 
 @media (min-width: 800px) {
+  /* LANDINGPAGE */
+
+  /* PORTFOLIO */
   #container_1 {
     grid-template-columns: 1fr 1fr;
   }
