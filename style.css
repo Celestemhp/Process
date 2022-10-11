@@ -24,3 +24,8 @@ p {
   font-size: 1em;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.icons {
+  width: 4%;
+  height: auto;
+}
