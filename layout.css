@@ -64,6 +64,16 @@ img {
   justify-self: center;
 }
 
+.img_1 {
+  background: url(SoMe.svg);
+  background-size: cover;
+  height: 211px;
+}
+
+.tekst {
+  margin-top: 5%;
+}
+
 @media (min-width: 800px) {
   #container_1 {
     grid-template-columns: 1fr 1fr;
