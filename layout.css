@@ -10,6 +10,10 @@ main {
   margin: 0 auto;
 }
 
+body {
+  background-color: #fd639e;
+}
+
 img {
   max-width: 100%;
 }
@@ -156,7 +160,7 @@ h2 {
 }
 
 #container_2 {
-  background-color: #fd639e;
+  background-color: #ff92bc;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -198,7 +202,7 @@ h2 {
 }
 
 .tekstboks2 {
-  background-color: #fa86ce;
+  background-color: #fdb5e2;
   padding: 1.5em;
   border-radius: 2em;
 }
