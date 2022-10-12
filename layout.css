@@ -32,7 +32,7 @@ img {
 
 /* LANDINGPAGE */
 #container {
-  background-color: #c9a7c4;
+  background-color: #fd639e;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -156,7 +156,7 @@ h2 {
 }
 
 #container_2 {
-  background-color: #e23627;
+  background-color: #fd639e;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -189,6 +189,24 @@ h2 {
 
 .tekst {
   margin-top: 5%;
+}
+
+.tekstboks1 {
+  background-color: #5263fc;
+  padding: 2em;
+  border-radius: 3em;
+}
+
+.tekstboks2 {
+  background-color: #fa86ce;
+  padding: 1.5em;
+  border-radius: 2em;
+}
+
+.tekstboks3 {
+  background-color: #8eeaf4;
+  padding: 3.2em;
+  border-radius: 3em;
 }
 
 @media (min-width: 800px) {
